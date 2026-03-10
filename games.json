@@ -10,5 +10,9 @@
   "game_3": {
     "name": "Geometry Dash(remake)",
     "folder_id": "game_3"
-  }
+  },
+  "game_4": {
+    "name": "Space Waves",
+    "folder_id": "game_4"
+  }  
 }

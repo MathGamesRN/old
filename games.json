@@ -14,5 +14,9 @@
   "game_4": {
     "name": "Space Waves",
     "folder_id": "game_4"
-  }  
+  },
+  "game_5": {
+    "name": "Cookie Clicker",
+    "folder_id": "game_5"
+  }
 }
